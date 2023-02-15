@@ -1,1 +1,5 @@
-This is some example text for branch test1
+<<<<<<< HEAD
+This is some example text from both test1 and test2 branches combined.
+=======
+This is some example text from both test1 and test2 branches combined.
+>>>>>>> test2
