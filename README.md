@@ -25,6 +25,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 For questions and troubleshooting, please contact:<br />
 <br />
 Tyler Workman <br />
-tlw8878@mavs.uta.edu  
+tlw8878@mavs.uta.edu <br />
+  
 > I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success . . . Such emotions make a man forget food, sleep, friends, love, everything.
 > > ― Nikola Tesla
